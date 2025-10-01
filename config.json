@@ -1,0 +1,11 @@
+{
+    "config": {
+        "adb_host": "adb-5060310321484790.10.azuredatabricks.net",
+        "env_friendly_name":"src",
+        "blob_storage_url":"abfss://data@stbihurtprod024src.dfs.core.windows.net",
+        "blob_default_working_directory": "adbfiles/",
+        "blob_mount_directory": "/mnt/data/",
+        "volume_mount_directory":"/Volumes/c_files/bihurt_14_src/",
+        "volume_default_name":"vol_common"
+    }
+}
